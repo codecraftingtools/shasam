@@ -12,12 +12,12 @@ Monte Carlo capability that is built on top of `Chimps`_.
 `documentation`_ is hosted on `Read the Docs`_ and the `source code`_
 can be found on `GitHub`_.
 
-.. _Chimps: https://www.codecraftsmen.org/software.html#chimps
-.. _Shasam: https://www.codecraftsmen.org/software.html#shasam
+.. _Chimps: https://tools.codecraftsmen.org/software.html#chimps
+.. _Shasam: https://tools.codecraftsmen.org/software.html#shasam
 .. _Code Craftsmen: https://www.codecraftsmen.org
 .. _documentation: https://shasam.readthedocs.io
-.. _Read the Docs: https://www.codecraftsmen.org/foundation.html#read-the-docs
+.. _Read the Docs: https://tools.codecraftsmen.org/foundation.html#read-the-docs
 .. _source code: https://github.com/codecraftingtools/shasam
-.. _GitHub: https://www.codecraftsmen.org/foundation.html#github
+.. _GitHub: https://tools.codecraftsmen.org/foundation.html#github
 
 ..  sphinx-include-summary-end
